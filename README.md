@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**VazenZ/VazenZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HI i Am Alvaro A.K.A VazenZ 
+maybe I share again About Script Samp, or Pawn Language❤️
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- HTML/CSS
+- JavaScript
+- Python
+- C++
+- Pawn
+
+### Github Stats
+
+![Vazen`Z stats](https://github-readme-stats.vercel.app/api?username=VazenZ&count_private=true&show_icons=true&theme=radical)
+
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VazenZ&show_icons=true&theme=radical)
