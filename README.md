@@ -34,7 +34,7 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    WELCOME TO MY PROFILE!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -82,7 +82,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+SAYA AKAN LENIH BANYAK SHARE TENTAMG PAWM
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
