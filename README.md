@@ -11,7 +11,8 @@ maybe I share again About Script Samp, or Pawn Language❤️
 <!-- CONTACT -->
 ## SOCIAL MEDIA
 
-VAZENZ DISCORD - [exactly.vazenz#2826) - mfadhilalvaro79@gmail.com
+VAZENZ DISCORD - [exactly.vazenz#2826) 
+INSTA - https://www.instagram.com/vxz.tz?r=nametag
 
 Project Link: [https://github.com/VazenZ](https://github.com/VazenZ/Alvaro)
 
