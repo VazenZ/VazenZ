@@ -1,4 +1,5 @@
-[![](https://cdn.discordapp.com/attachments/721670058287300608/822462494446190612/20210122_225849.png)](https://beautifuljekyll.com/plans/)
+[![](https://cdn.discordapp.com/attachments/721670058287300608/822462494446190612/20210122_225849.png)](https://github.com/VazenZ)
+[![](https://cdn.discordapp.com/attachments/721670058287300608/822466909479895060/20210319_204946.jpg)](https://github.com/VazenZ)
 
 ### Hi there 👋
 
