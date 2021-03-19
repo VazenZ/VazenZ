@@ -2,7 +2,12 @@
 
 [![](https://cdn.discordapp.com/attachments/721670058287300608/822469489177526372/20210319_205958.jpg)](https://github.com/VazenZ)
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 ### Hi there 👋
+
 
 HI i Am Alvaro A.K.A VazenZ 
 maybe I share again About Script Samp, or Pawn Language❤️
